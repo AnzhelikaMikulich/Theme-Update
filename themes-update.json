@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "2.0.5",
-      "changelog": "Исправлены баги с мобильным меню."
+      "new_version": "2.0.6",
+      "changelog": "Добавлен код для вывода всех страниц в выборе Main Page(на сервере показывает только 7 страниц)"
     },
     "demo-games": {
       "new_version": "2.0.5",
