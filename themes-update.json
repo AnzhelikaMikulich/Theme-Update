@@ -9,8 +9,8 @@
       "changelog": "Добавлен новый шаблон главной страницы."
     },
     "sportwetten-theme": {
-      "new_version": "2.0.2",
-      "changelog": " -Перестилизован баннер на Брендах <br/>-Оптимизированы стили для страниц <br/>"
+      "new_version": "2.0.3",
+      "changelog": "   -Добавили стилизацию плагина Demo Games <br/>-убрали лишние классы в config.cfg <br/>"
     },
     "gamemania": {
       "new_version": "6.0.3",
