@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "2.0.7",
-      "changelog": "-добавлена стилизация для обновленной версии TranslatePress"
+      "new_version": "2.0.8",
+      "changelog": "-обновлен скрипт для запуска update.sh"
     },
     "demo-games": {
       "new_version": "2.0.6",
