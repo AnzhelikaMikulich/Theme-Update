@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "2.0.8",
-      "changelog": "-обновлен скрипт для запуска update.sh"
+      "new_version": "2.0.9",
+      "changelog": "-правки от постеров (убрали фон у платежных систем)"
     },
     "demo-games": {
       "new_version": "2.0.6",
