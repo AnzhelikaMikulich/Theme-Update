@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "3.0.0",
-      "changelog": "обновлен скрипт , который запускает update.sh"
+      "new_version": "3.0.1",
+      "changelog": "добавлено окно для вывода логов скрипта update.sh при запуске обновления темы"
     },
     "demo-games": {
       "new_version": "2.0.6",
