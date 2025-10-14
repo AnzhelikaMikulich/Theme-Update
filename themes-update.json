@@ -5,8 +5,8 @@
       "changelog": "-внесены правки от постеров(баннер на 100% высоты экарана)<br/>-оптимизирован код (сборка scss)<br/>-добавлено поле для вывода кастомного амп -баннера у brand<br/>-обновлен список настоек для simply-static<br/>"
     },
     "demo-games": {
-      "new_version": "2.0.6",
-      "changelog": " -перестилизован переключатель языка для новой плагина Translate Press"
+      "new_version": "2.0.7",
+      "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "sportwetten-theme": {
       "new_version": "2.0.9",
@@ -21,28 +21,28 @@
       "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
     },
     "leon-landing-3": {
-      "new_version": "9.0.5",
-      "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
+      "new_version": "9.0.6",
+      "changelog": "-добавлено поле для вывода кастомного амп -баннера у brand<br/>-обновлен список настоек для simply-static<br/>"
     },
     "20betwin": {
-      "new_version": "3.0.7",
-      "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
+      "new_version": "3.0.8",
+      "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "bizzo-casino": {
-      "new_version": "3.0.9",
-      "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
+      "new_version": "4.0.0",
+      "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "betsson": {
-      "new_version": "5.0.7",
-      "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
+      "new_version": "5.0.8",
+      "changelog": " -добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "rewiew-theme": {
       "new_version": "13.0.8",
       "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
     },
     "twin-casino-2": {
-      "new_version": "7.0.2",
-      "changelog": "-перестилизован переключатель языка для новой плагина Translate Press"
+      "new_version": "7.0.3",
+      "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "leon-casino-2": {
       "new_version": "11.0.2",
