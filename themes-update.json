@@ -80,7 +80,7 @@
       "new_version": "1.0.3",
       "changelog": " -добавлены правки после созвона 22.10.25"
     },
-    "irish-theme": {
+    "myccc-theme": {
       "new_version": "0.0.2",
       "changelog": " -обновлены стили и классы в config.cfg"
     }
