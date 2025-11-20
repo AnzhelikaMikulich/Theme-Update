@@ -45,16 +45,16 @@
       "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "leon-casino-2": {
-      "new_version": "11.0.3",
-      "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
+      "new_version": "11.0.4",
+      "changelog": "-отредактирована амп версия sidebar-menu<br/>"
     },
     "twin-casino-1": {
       "new_version": "9.0.3",
       "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
     },
     "leon-casino-1": {
-      "new_version": "14.0.5",
-      "changelog": "-добавлено окно для вывода логов скрипта update.sh при запуске обновления темы<br/>-обновлен список настоек для simply-static<br/>"
+      "new_version": "14.0.6",
+      "changelog": "-отредактирована амп версия sidebar-menu<br/>"
     },
     "mercury-ireland": {
       "new_version": "12.0.9",
