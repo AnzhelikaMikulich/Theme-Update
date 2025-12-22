@@ -17,8 +17,8 @@
       "changelog": "-стандартизировна версия темы"
     },
     "leon-app": {
-      "new_version": "19.3.0.2",
-      "changelog": "-добавлена пагинация совместимая с SimplyStatic, стандартизирована версия темы"
+      "new_version": "19.3.0.3",
+      "changelog": "-обновлены стили для News"
     },
     "leon-landing-3": {
       "new_version": "10.1.0.4",
