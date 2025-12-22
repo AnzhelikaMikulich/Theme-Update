@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.0.9",
-      "changelog": "-добавлены правки в гутенберг блоки"
+      "new_version": "11.3.1.0",
+      "changelog": "-правки в стили Brand Shortcode"
     },
     "demo-games": {
       "new_version": "15.2.0.7",
