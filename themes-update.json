@@ -21,8 +21,8 @@
       "changelog": "-обновлены стили для News"
     },
     "leon-landing-3": {
-      "new_version": "10.1.0.4",
-      "changelog": "добавлены правки в список классов"
+      "new_version": "10.1.0.5",
+      "changelog": "отредактирован config.cfg"
     },
     "20betwin": {
       "new_version": "14.3.0.8",
@@ -42,7 +42,7 @@
     },
     "twin-casino-2": {
       "new_version": "4.7.0.5",
-      "changelog": "добавлена пагинация для SimplyStatic, правки от постеров"
+      "changelog": "отредактирован config.cfg"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.7",
@@ -74,7 +74,7 @@
     },
     "leon-landing-2": {
       "new_version": "9.10.0.3",
-      "changelog": "-добавлена пагинация для шорткода новостей, которорая совместима с SimplyStatic, стилизация пагинации для небольших экранов (с троеточиями)"
+      "changelog": "-отредактирован config.cfg"
     },    
     "leonbet": {
       "new_version": "20.1.1.0",
