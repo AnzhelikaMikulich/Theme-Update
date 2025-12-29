@@ -1,23 +1,23 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.0",
+      "new_version": "11.3.1.1",
       "changelog": "-правки в стили Brand Shortcode"
     },
     "demo-games": {
-      "new_version": "15.2.0.7",
+      "new_version": "15.2.0.8",
       "changelog": "-стандартизировна версия темы"
     },
     "sportwetten-theme": {
-      "new_version": "16.2.0.9",
+      "new_version": "16.2.1.0",
       "changelog": "-стандартизировна версия темы"
     },
     "gamemania": {
-      "new_version": "18.6.0.4",
+      "new_version": "18.6.0.5",
       "changelog": "-стандартизировна версия темы"
     },
     "leon-app": {
-      "new_version": "19.3.0.3",
+      "new_version": "19.3.0.4",
       "changelog": "-обновлены стили для News"
     },
     "leon-landing-3": {
@@ -29,7 +29,7 @@
       "changelog": "-стандартизировна версия темы"
     },
     "bizzo-casino": {
-      "new_version": "13.4.0.0",
+      "new_version": "13.4.0.1",
       "changelog": "-стандартизировна версия темы"
     },
     "betsson": {
@@ -41,7 +41,7 @@
       "changelog": "стандартизация номера темы"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.4",
+      "new_version": "4.7.0.5",
       "changelog": "добавлена пагинация для SimplyStatic, правки от постеров"
     },
     "leon-casino-2": {
@@ -73,11 +73,11 @@
       "changelog": "добавлены правки в список классов"
     },
     "leon-landing-2": {
-      "new_version": "9.10.0.2",
+      "new_version": "9.10.0.3",
       "changelog": "-добавлена пагинация для шорткода новостей, которорая совместима с SimplyStatic, стилизация пагинации для небольших экранов (с троеточиями)"
     },    
     "leonbet": {
-      "new_version": "20.1.0.8",
+      "new_version": "20.1.0.9",
       "changelog": "-добавлена пагинация для шорткода новостей, которорая совместима с SimplyStatic, стилизация пагинации для небольших экранов (с троеточиями)"
     },
     "myccc-theme": {
