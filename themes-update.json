@@ -45,8 +45,8 @@
       "changelog": "добавлена пагинация для SimplyStatic, правки от постеров"
     },
     "leon-casino-2": {
-      "new_version": "2.11.0.6",
-      "changelog": "добавлена пагинация для SimplyStatic, правки от постеров"
+      "new_version": "2.11.0.7",
+      "changelog": "отредактирован config.cfg"
     },
     "twin-casino-1": {
       "new_version": "3.9.0.4",
@@ -65,8 +65,8 @@
       "changelog": "-стандартизация версии темы"
     },
     "slot-rip": {
-      "new_version": "5.10.0.4",
-      "changelog": "-стандартизация версии темы"
+      "new_version": "5.10.0.5",
+      "changelog": "-отредактирован config.cfg"
     },
     "leon-landing-1": {
       "new_version": "8.17.0.1",
