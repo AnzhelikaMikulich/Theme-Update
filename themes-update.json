@@ -2,7 +2,7 @@
   "themes": {
     "gamblers-theme": {
       "new_version": "11.3.1.1",
-      "changelog": "-правки в стили Brand Shortcode"
+      "changelog": "-отредактирован config.cfg"
     },
     "demo-games": {
       "new_version": "15.2.0.8",
@@ -81,8 +81,8 @@
       "changelog": "-bug fix в стили для кнопки, в последнем обновлении не подтянулись цвета"
     },
     "myccc-theme": {
-      "new_version": "21.1.0.9",
-      "changelog": "- исправлены ошибки в header"
+      "new_version": "21.2.0.0",
+      "changelog": "-отредактирован config.cfg"
     }
   }
 }
