@@ -17,8 +17,8 @@
       "changelog": "-стандартизировна версия темы"
     },
     "leon-app": {
-      "new_version": "19.3.0.5",
-      "changelog": "-обновлены стили для News"
+      "new_version": "19.3.0.6",
+      "changelog": "-отредактирован config.cfg"
     },
     "leon-landing-3": {
       "new_version": "10.1.0.6",
