@@ -61,8 +61,8 @@
       "changelog": " -стандартизация версии темы"
     },
     "screen-rip": {
-      "new_version": "7.10.0.8",
-      "changelog": "-стандартизация версии темы"
+      "new_version": "7.10.0.9",
+      "changelog": "отредактирован config.cfg"
     },
     "slot-rip": {
       "new_version": "5.10.0.5",
