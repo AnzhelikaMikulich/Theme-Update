@@ -83,6 +83,10 @@
     "myccc-theme": {
       "new_version": "21.2.0.0",
       "changelog": "-отредактирован config.cfg"
+    },
+    "real-estate": {
+      "real-estate": "0.0.1",
+      "changelog": "-theme release"
     }
   }
 }
