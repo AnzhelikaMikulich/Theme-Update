@@ -41,8 +41,8 @@
       "changelog": "-отредактирован config.cfg"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.5",
-      "changelog": "отредактирован config.cfg"
+      "new_version": "4.7.0.6",
+      "changelog": "исправлен вывод категорий в шорткодах"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.7",
@@ -81,7 +81,7 @@
       "changelog": "-bug fix в стили для кнопки, в последнем обновлении не подтянулись цвета"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.0",
+      "new_version": "21.2.0.1",
       "changelog": "-отредактирован config.cfg"
     },
     "real-estate": {
