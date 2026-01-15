@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.1",
-      "changelog": "-отредактирован config.cfg"
+      "new_version": "11.3.1.2",
+      "changelog": "-исправлены ошибки в подклбючении carbon-fields"
     },
     "demo-games": {
       "new_version": "15.2.0.8",
@@ -77,8 +77,8 @@
       "changelog": "-отредактирован config.cfg"
     },    
     "leonbet": {
-      "new_version": "20.1.1.1",
-      "changelog": "-bug fix в стили для кнопки, в последнем обновлении не подтянулись цвета"
+      "new_version": "20.1.1.2",
+     "changelog": "-исправлены ошибки в подклбючении carbon-fields"
     },
     "myccc-theme": {
       "new_version": "21.2.0.1",
