@@ -21,8 +21,8 @@
       "changelog": "-отредактирован config.cfg"
     },
     "leon-landing-3": {
-      "new_version": "10.1.0.7",
-      "changelog": "-добавлен 2 уровень меню в Header, добавлены стили для шорткодов в АМП версию"
+      "new_version": "10.1.0.8",
+      "changelog": " -добавлен скрипт , добавляющий nofollow для внешних ссылок в контенте"
     },
     "20betwin": {
       "new_version": "14.3.0.9",
