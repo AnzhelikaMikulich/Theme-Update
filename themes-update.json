@@ -5,8 +5,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "demo-games": {
-      "new_version": "15.2.0.8",
-      "changelog": "-стандартизировна версия темы"
+      "new_version": "15.2.0.10",
+      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "sportwetten-theme": {
       "new_version": "16.2.1.0",
