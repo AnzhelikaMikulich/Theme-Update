@@ -9,8 +9,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "sportwetten-theme": {
-      "new_version": "16.2.1.0",
-      "changelog": "-отредактирован config.cfg"
+      "new_version": "16.2.1.1",
+      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "gamemania": {
       "new_version": "18.6.0.8",
