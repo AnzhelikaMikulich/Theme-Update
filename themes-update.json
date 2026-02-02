@@ -65,8 +65,8 @@
       "changelog": "отредактирован config.cfg"
     },
     "slot-rip": {
-      "new_version": "5.10.0.5",
-      "changelog": "-отредактирован config.cfg"
+      "new_version": "5.10.0.6",
+      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-landing-1": {
       "new_version": "8.17.0.5",
