@@ -41,8 +41,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.6",
-      "changelog": "исправлен вывод категорий в шорткодах"
+      "new_version": "4.7.0.7",
+      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.8",
