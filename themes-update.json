@@ -25,8 +25,8 @@
       "changelog": "-style-fix"
     },
     "20betwin": {
-      "new_version": "14.3.0.9",
-      "changelog": "-отредактирован config.cfg"
+      "new_version": "14.3.0.10",
+      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "bizzo-casino": {
       "new_version": "13.4.0.1",
