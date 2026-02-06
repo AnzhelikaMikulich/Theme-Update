@@ -77,8 +77,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },    
     "leonbet": {
-      "new_version": "20.1.1.6",
-     "changelog": "-добавлен поиск на сайт<br/>-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
+      "new_version": "20.1.1.7",
+     "changelog": "-fix AMP version"
     },
     "myccc-theme": {
       "new_version": "21.2.0.6",
