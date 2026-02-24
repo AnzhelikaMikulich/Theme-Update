@@ -85,8 +85,8 @@
       "changelog": "-добавлен 2 уровень для скрытого меню;-исправления в поиск"
     },
     "real-estate": {
-      "new_version": "0.0.1",
-      "changelog": "-theme release"
+      "new_version": "0.0.4",
+      "changelog": "-bux fix from file with Edits"
     }
   }
 }
