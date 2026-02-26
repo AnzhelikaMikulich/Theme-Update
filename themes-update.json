@@ -77,8 +77,8 @@
       "changelog": "-правки по странице Новости и АМП версии"
     },    
     "leonbet": {
-      "new_version": "20.1.1.7",
-     "changelog": "-fix AMP version"
+      "new_version": "20.1.1.8",
+     "changelog": "-fix AMP version,fix btn and News page styles"
     },
     "myccc-theme": {
       "new_version": "21.2.0.6",
