@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.6",
-      "changelog": "fix news style"
+      "new_version": "11.3.1.7",
+      "changelog": "-add btn Scroll To Top"
     },
     "demo-games": {
       "new_version": "15.2.0.10",
