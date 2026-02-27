@@ -21,8 +21,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-landing-3": {
-      "new_version": "10.1.0.14",
-      "changelog": "-fix Archive News Page"
+      "new_version": "10.1.0.15",
+      "changelog": "-fix AMP Page"
     },
     "20betwin": {
       "new_version": "14.3.0.10",
