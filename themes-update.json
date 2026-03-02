@@ -53,8 +53,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-casino-1": {
-      "new_version": "1.14.0.11",
-      "changelog": "-bug fix function.php"
+      "new_version": "1.14.0.12",
+      "changelog": "  -Added styling updates for blocks with Promotions in the AMP version of the site.<br/>-On the internal news page, the banner description was removed and the H1 was moved to a separate block.<br/>-Added an additional check for empty links in blocks with Promotions, Casino, and Games.<br/>"
     },
     "mercury-ireland": {
       "new_version": "17.12.0.9",
