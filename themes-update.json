@@ -69,7 +69,7 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-landing-1": {
-      "new_version": "8.17.0.5",
+      "new_version": "8.17.0.6",
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-landing-2": {
@@ -81,12 +81,17 @@
      "changelog": "-fix AMP version,fix btn and News page styles"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.6",
+      "new_version": "21.2.0.7",
       "changelog": "-добавлен 2 уровень для скрытого меню;-исправления в поиск"
     },
     "real-estate": {
       "new_version": "0.0.4",
       "changelog": "-bux fix from file with Edits"
+    },
+    "mobile-app": {
+      "new_version": "0.0.1",
+      "changelog": "theme release"
     }
+    
   }
 }
