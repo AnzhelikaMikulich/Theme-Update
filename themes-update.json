@@ -81,8 +81,8 @@
      "changelog": "-fix AMP version,fix btn and News page styles"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.7",
-      "changelog": "-добавлен 2 уровень для скрытого меню;-исправления в поиск"
+      "new_version": "21.2.0.9",
+      "changelog": "Add new option for WP-Cli SimplyStatic"
     },
     "real-estate": {
       "new_version": "0.0.5",
