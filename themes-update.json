@@ -37,8 +37,8 @@
       "changelog": " -стандартизировна версия темы"
     },
     "rewiew-theme": {
-      "new_version": "6.13.1.4",
-      "changelog": "-добавлено 2 новых шорткода и правки по стилям"
+      "new_version": "6.13.1.5",
+      "changelog": " -Add new option for WP-Cli SimplyStatic;-Add autor block for Brand Page<br/>"
     },
     "twin-casino-2": {
       "new_version": "4.7.0.7",
