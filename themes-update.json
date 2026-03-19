@@ -89,8 +89,8 @@
       "changelog": "-add gallery Img for Agency Page"
     },
     "mobile-app": {
-      "new_version": "22.0.0.1",
-      "changelog": "theme release"
+      "new_version": "22.0.0.2",
+      "changelog": "-add adaptive for mobile"
     }
     
   }
