@@ -65,8 +65,8 @@
       "changelog": "отредактирован config.cfg"
     },
     "slot-rip": {
-      "new_version": "5.10.0.6",
-      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
+      "new_version": "5.10.0.8",
+      "changelog": "- Translate the admin panel into English- remove all Russian comments- add a news section as a standalone feature (not as part of a plugin)- check AMP, and update the Simply Static import settings"
     },
     "leon-landing-1": {
       "new_version": "8.17.0.7",
