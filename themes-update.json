@@ -61,8 +61,8 @@
       "changelog": " -стандартизация версии темы"
     },
     "screen-rip": {
-      "new_version": "7.10.0.9",
-      "changelog": "отредактирован config.cfg"
+      "new_version": "7.10.0.10",
+      "changelog": "- Added randomizer for colors;- Translate the admin panel into English;- remove all Russian comments;- check AMP, and update the Simply Static import settings"
     },
     "slot-rip": {
       "new_version": "5.10.0.8",
