@@ -89,8 +89,8 @@
       "changelog": "-add gallery Img for Agency Page"
     },
     "mobile-app": {
-      "new_version": "22.0.0.4",
-      "changelog": "-added edits and Bonus output in the shortcode with brands"
+      "new_version": "22.0.0.5",
+      "changelog": "-added AMP fix"
     }
     
   }
