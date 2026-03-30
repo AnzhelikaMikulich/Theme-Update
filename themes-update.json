@@ -81,16 +81,16 @@
      "changelog": "-fix AMP version,fix btn and News page styles"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.9",
-      "changelog": "Add new option for WP-Cli SimplyStatic"
+      "new_version": "21.2.0.10",
+      "changelog": "Add new option for WP-Cli SimplyStatic,add amp fix"
     },
     "real-estate": {
       "new_version": "0.0.6",
       "changelog": "-add amp and style fix"
     },
     "mobile-app": {
-      "new_version": "22.0.0.5",
-      "changelog": "-added AMP fix"
+      "new_version": "22.0.0.6",
+      "changelog": "-add amp fix;-all russian comments and text have been removed from the code"
     }
     
   }
