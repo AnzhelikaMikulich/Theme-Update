@@ -85,8 +85,8 @@
       "changelog": "Add new option for WP-Cli SimplyStatic"
     },
     "real-estate": {
-      "new_version": "0.0.5",
-      "changelog": "-add gallery Img for Agency Page"
+      "new_version": "0.0.6",
+      "changelog": "-add amp and style fix"
     },
     "mobile-app": {
       "new_version": "22.0.0.5",
