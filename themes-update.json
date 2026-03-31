@@ -21,8 +21,8 @@
       "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
     },
     "leon-landing-3": {
-      "new_version": "10.1.0.16",
-      "changelog": "-fix BTN style"
+      "new_version": "10.1.0.17",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "20betwin": {
       "new_version": "14.3.0.10",
