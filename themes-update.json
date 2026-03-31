@@ -73,8 +73,8 @@
       "changelog": "-Gutenberg blocks styled in AMP version;-fix News btn name (in single page)"
     },
     "leon-landing-2": {
-      "new_version": "9.10.0.7",
-      "changelog": "-правки по странице Новости и АМП версии"
+      "new_version": "9.10.0.8",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },    
     "leonbet": {
       "new_version": "20.1.1.9",
