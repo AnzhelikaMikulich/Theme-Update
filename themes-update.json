@@ -41,12 +41,12 @@
       "changelog": " -Add new option for WP-Cli SimplyStatic;-Add autor block for Brand Page<br/>"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.7",
-      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
+      "new_version": "4.7.0.8",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "leon-casino-2": {
-      "new_version": "2.11.0.10",
-      "changelog": "-fix functions.php"
+      "new_version": "2.11.0.11",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "twin-casino-1": {
       "new_version": "3.9.0.7",
