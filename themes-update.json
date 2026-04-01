@@ -69,8 +69,8 @@
       "changelog": "add fix button in Header"
     },
     "leon-landing-1": {
-      "new_version": "8.17.0.7",
-      "changelog": "-Gutenberg blocks styled in AMP version;-fix News btn name (in single page)"
+      "new_version": "8.17.0.8",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic<br/>"
     },
     "leon-landing-2": {
       "new_version": "9.10.0.8",
