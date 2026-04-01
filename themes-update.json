@@ -49,8 +49,8 @@
       "changelog": "-fix functions.php"
     },
     "twin-casino-1": {
-      "new_version": "3.9.0.6",
-      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
+      "new_version": "3.9.0.7",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "leon-casino-1": {
       "new_version": "1.14.0.14",
