@@ -61,8 +61,8 @@
       "changelog": " -стандартизация версии темы"
     },
     "screen-rip": {
-      "new_version": "7.10.0.10",
-      "changelog": "- Added randomizer for colors;- Translate the admin panel into English;- remove all Russian comments;- check AMP, and update the Simply Static import settings"
+      "new_version": "7.10.0.12",
+      "changelog": "-added “Shake” and “Reset” buttons to the color customizer in the theme and manual update;-fixed all AMP links missing the closing `amp/` tag in the AMP version of the site;"
     },
     "slot-rip": {
       "new_version": "5.10.0.9",
