@@ -17,8 +17,8 @@
       "changelog": "-отредактирован config.cfg"
     },
     "leon-app": {
-      "new_version": "19.3.0.7",
-      "changelog": "-добавлена страница 404<br/>-стилизованы шорткоды в АМП<br/>-добавлен код для регулировки параметра rell=nofollow в Customize (Links SEO)<br/>-добавлена опция для загрузки параметров simply static из стороннего файла json<br/>"
+      "new_version": "19.3.0.8",
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "leon-landing-3": {
       "new_version": "10.1.0.17",
@@ -75,10 +75,10 @@
     "leon-landing-2": {
       "new_version": "9.10.0.8",
       "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
-    },    
+    },
     "leonbet": {
       "new_version": "20.1.1.9",
-     "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic<br/>"
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic<br/>"
     },
     "myccc-theme": {
       "new_version": "21.2.0.10",
@@ -92,6 +92,5 @@
       "new_version": "22.0.0.7",
       "changelog": "-Added an additional shortcode for brands-Added a “Back to Top” button;-Made changes to block styles"
     }
-    
   }
 }
