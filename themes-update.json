@@ -33,8 +33,8 @@
       "changelog": "-стандартизировна версия темы"
     },
     "betsson": {
-      "new_version": "12.5.0.8",
-      "changelog": " -стандартизировна версия темы"
+      "new_version": "12.5.0.9",
+    "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "rewiew-theme": {
       "new_version": "6.13.1.6",
