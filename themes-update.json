@@ -37,8 +37,8 @@
     "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "rewiew-theme": {
-      "new_version": "6.13.1.6",
-      "changelog": " -Add new option for WP-Cli SimplyStatic;-Add autor block for Brand Page<br/>"
+      "new_version": "6.13.1.7",
+      "changelog": "- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel"
     },
     "twin-casino-2": {
       "new_version": "4.7.0.8",
