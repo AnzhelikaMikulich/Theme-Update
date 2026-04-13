@@ -81,8 +81,8 @@
       "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic<br/>"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.10",
-      "changelog": "Add new option for WP-Cli SimplyStatic,add amp fix"
+      "new_version": "21.2.0.11",
+      "changelog": "-added “Blacklisted Brand” functionality for brands"
     },
     "real-estate": {
       "new_version": "0.0.6",
