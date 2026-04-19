@@ -10,7 +10,7 @@
     },
     "sportwetten-theme": {
       "new_version": "16.2.1.2",
-       "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "gamemania": {
       "new_version": "18.6.0.10",
@@ -34,11 +34,11 @@
     },
     "betsson": {
       "new_version": "12.5.0.9",
-    "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
+      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "rewiew-theme": {
-      "new_version": "6.13.1.7",
-      "changelog": "- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel"
+      "new_version": "6.13.1.8",
+      "changelog": "-Renaming topics (the topic is named exactly the same as the archive containing it);-Creating a default 404 page template in the admin panel;- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...)<br/>"
     },
     "twin-casino-2": {
       "new_version": "4.7.0.8",
@@ -90,7 +90,7 @@
     },
     "mobile-app": {
       "new_version": "22.0.0.8",
-  "changelog": "- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel"
+      "changelog": "- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel"
     }
   }
 }
