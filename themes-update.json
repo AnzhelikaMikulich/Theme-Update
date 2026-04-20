@@ -61,8 +61,8 @@
       "changelog": " -стандартизация версии темы"
     },
     "screen-rip": {
-      "new_version": "7.10.0.12",
-      "changelog": "-added “Shake” and “Reset” buttons to the color customizer in the theme and manual update;-fixed all AMP links missing the closing `amp/` tag in the AMP version of the site;"
+      "new_version": "7.10.0.13",
+      "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "slot-rip": {
       "new_version": "5.10.0.10",
