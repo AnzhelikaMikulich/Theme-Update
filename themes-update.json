@@ -53,8 +53,8 @@
       "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "leon-casino-1": {
-      "new_version": "1.14.0.14",
-      "changelog": "-Update AMP link (added a closing slash for AMP links.);-Translated the admin panel into English;-All Russian comments removed;-add new simply-static settings"
+      "new_version": "1.14.0.15",
+      "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "mercury-ireland": {
       "new_version": "17.12.0.9",
