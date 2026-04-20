@@ -41,8 +41,8 @@
       "changelog": "-Renaming topics (the topic is named exactly the same as the archive containing it);-Creating a default 404 page template in the admin panel;- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...)<br/>"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.8",
-      "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
+      "new_version": "4.7.0.9",
+        "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.12",
