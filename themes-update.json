@@ -81,8 +81,8 @@
       "changelog": "-Renaming topics (the topic is named exactly the same as the archive containing it);-Creating a default 404 page template in the admin panel;- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...)<br/>"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.11",
-      "changelog": "-added “Blacklisted Brand” functionality for brands"
+      "new_version": "21.2.0.12",
+      "changelog": "-Renaming topics (the topic is named exactly the same as the archive containing it);-Creating a default 404 page template in the admin panel;- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...)<br/>"
     },
     "real-estate": {
       "new_version": "0.0.6",
