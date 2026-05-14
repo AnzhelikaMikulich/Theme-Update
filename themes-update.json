@@ -77,8 +77,8 @@
       "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "leonbet": {
-      "new_version": "20.1.1.12",
-      "changelog": "-changes to the Pros/Cons section<br/>"
+      "new_version": "20.1.1.13",
+      "changelog": "-Added “blacklisted” functionality to the internal page, restyled sections, and added a field for brand reviews;-Changes to the AMP Button style, as per the file "
     },
     "myccc-theme": {
       "new_version": "21.2.0.13",
