@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.11",
-      "changelog": "-Added “blacklisted” functionality to the internal page, restyled sections, and added a field for brand reviews;-Changes to the AMP Button style, as per the file "
+      "new_version": "11.3.1.12",
+      "changelog": "-added “mini-author-box” after h1 "
     },
     "demo-games": {
       "new_version": "15.2.0.11",
