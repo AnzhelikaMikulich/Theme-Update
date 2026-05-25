@@ -91,6 +91,10 @@
     "mobile-app": {
       "new_version": "22.0.0.11",
       "changelog": "-added “blacklisted” functionality to the internal page, restyled sections, and added a field for brand reviews"
+    },
+    "unibet": {
+      "new_version": "23.0.0.1",
+      "changelog": "-theme release"
     }
   }
 }
