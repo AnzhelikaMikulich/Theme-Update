@@ -85,8 +85,8 @@
       "changelog": " added “blacklisted” functionality to the internal page, restyled sections, and added a field for brand reviews<br/>"
     },
     "real-estate": {
-      "new_version": "0.0.6",
-      "changelog": "-add amp and style fix"
+      "new_version": "0.0.7",
+      "changelog": "-additional work"
     },
     "mobile-app": {
       "new_version": "22.0.0.11",
