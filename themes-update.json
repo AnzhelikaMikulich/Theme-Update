@@ -81,8 +81,8 @@
       "changelog": "-edited News inside page(add btn name)"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.13",
-      "changelog": " added “blacklisted” functionality to the internal page, restyled sections, and added a field for brand reviews<br/>"
+      "new_version": "21.2.0.14",
+      "changelog": "-added markdown markup to pages"
     },
     "real-estate": {
       "new_version": "0.0.8",
