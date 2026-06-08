@@ -81,8 +81,8 @@
       "changelog": "-edited News inside page(add btn name)"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.16",
-      "changelog": "-added markdown markup to pages"
+      "new_version": "21.2.0.17",
+      "changelog": "-fix markdown markup to pages"
     },
     "real-estate": {
       "new_version": "0.0.8",
