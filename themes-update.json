@@ -25,7 +25,7 @@
       "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "20betwin": {
-      "new_version": "14.3.0.14",
+      "new_version": "14.3.0.15",
       "changelog": "-added banner slider, add modal window shortcode for theme"
     },
     "bizzo-casino": {
