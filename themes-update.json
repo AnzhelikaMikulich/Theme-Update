@@ -46,7 +46,7 @@
     },
     "leon-casino-2": {
       "new_version": "2.11.0.13",
-     "changelog": "-Minified and reduced by 15 KB (AMP style) <br/>-Fixed issues in AMP for the promotions block <br/>-Added Schema.org markup for news <br/>-Added a block to the customizer for configuring buttons on news cards <br/>"
+      "changelog": "-Minified and reduced by 15 KB (AMP style) <br/>-Fixed issues in AMP for the promotions block <br/>-Added Schema.org markup for news <br/>-Added a block to the customizer for configuring buttons on news cards <br/>"
     },
     "twin-casino-1": {
       "new_version": "3.9.0.8",
@@ -73,8 +73,8 @@
       "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "leon-landing-2": {
-      "new_version": "9.10.0.9",
-      "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
+      "new_version": "9.10.0.10",
+      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "leonbet": {
       "new_version": "20.1.1.14",
