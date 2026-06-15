@@ -25,8 +25,8 @@
      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "20betwin": {
-      "new_version": "14.3.0.17",
-      "changelog": "-added nav-menu shortcode;-added AMP version updates from the file;-added a block to the customizer for configuring buttons in the Туцы section;-added an Schema.org for the news section;-mnified AMP styles<br/>"
+      "new_version": "14.3.0.18",
+      "changelog": "-fixed nav-menu shortcode;"
     },
     "bizzo-casino": {
       "new_version": "13.4.0.2",
