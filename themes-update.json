@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.15",
-       "changelog": "-added the Gutenberg FAQ block;-added;Schema.org extensions for author, FAQ, and news;-updated the manual"
+      "new_version": "11.3.1.16",
+       "changelog": "-fix the News schema.org;-fix markdown(delete emoji)<br/>"
     },
     "demo-games": {
       "new_version": "15.2.0.11",
