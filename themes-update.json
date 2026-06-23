@@ -25,8 +25,8 @@
      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "20betwin": {
-      "new_version": "14.3.0.19",
-      "changelog": "-fixed nav-menu shortcode;"
+      "new_version": "14.3.0.20",
+      "changelog": "-fixed nav-menu shortcode;-added Markdown support to the website;-added schema.org markup for news and author information;-minified AMP styles"
     },
     "bizzo-casino": {
       "new_version": "13.4.0.2",
