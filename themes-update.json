@@ -77,8 +77,8 @@
       "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "leonbet": {
-      "new_version": "20.1.1.14",
-      "changelog": "-edited News inside page(add btn name)"
+      "new_version": "20.1.1.15",
+     "changelog": "Fix markdown; Added Schema.org;Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "myccc-theme": {
       "new_version": "21.2.0.19",
