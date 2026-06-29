@@ -2,7 +2,7 @@
   "themes": {
     "gamblers-theme": {
       "new_version": "11.3.1.16",
-       "changelog": "-fix the News schema.org;-fix markdown(delete emoji)<br/>"
+      "changelog": "-fix the News schema.org;-fix markdown(delete emoji)<br/>"
     },
     "demo-games": {
       "new_version": "15.2.0.11",
@@ -22,11 +22,11 @@
     },
     "leon-landing-3": {
       "new_version": "10.1.0.19",
-     "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "20betwin": {
-      "new_version": "14.3.0.22",
-      "changelog": "-fixed nav-menu shortcode;-added Markdown support to the website;-added schema.org markup for news and author information;-minified AMP styles"
+      "new_version": "14.3.0.23",
+      "changelog": "-сhanges have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons);-сhanges have been made to the function for replacing the modal window shortcode; the instructions have been updated"
     },
     "bizzo-casino": {
       "new_version": "13.4.0.2",
@@ -66,7 +66,7 @@
     },
     "slot-rip": {
       "new_version": "5.10.0.11",
-     "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "leon-landing-1": {
       "new_version": "8.17.0.10",
@@ -78,7 +78,7 @@
     },
     "leonbet": {
       "new_version": "20.1.1.15",
-     "changelog": "Fix markdown; Added Schema.org;Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "changelog": "Fix markdown; Added Schema.org;Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "myccc-theme": {
       "new_version": "21.2.0.19",
