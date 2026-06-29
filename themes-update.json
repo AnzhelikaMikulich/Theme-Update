@@ -85,8 +85,8 @@
       "changelog": "Fix markdown; Added Schema.org;Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "real-estate": {
-      "new_version": "0.0.11",
-      "changelog": "-add animation for Banner Block;-added Schema.org extensions for Author, FAQ, and News;-Added Author Block after h1;Added a block to the customizer for configuring buttons in the News;Added an schema.org for the News section;Minified AMP styles;Add new mobile navigation;Add new icons for Review Shortcode;Add Markdown;updated the manual"
+      "new_version": "0.0.12",
+      "changelog": "- fix mobile menu"
     },
     "mobile-app": {
       "new_version": "22.0.0.11",
