@@ -45,8 +45,8 @@
       "changelog": "-Fix button in AMP version"
     },
     "leon-casino-2": {
-      "new_version": "2.11.0.13",
-      "changelog": "-Minified and reduced by 15 KB (AMP style) <br/>-Fixed issues in AMP for the promotions block <br/>-Added Schema.org markup for news <br/>-Added a block to the customizer for configuring buttons on news cards <br/>"
+      "new_version": "2.11.0.15",
+      "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
     },
     "twin-casino-1": {
       "new_version": "3.9.0.8",
