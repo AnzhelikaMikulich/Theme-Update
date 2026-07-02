@@ -1,7 +1,7 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.16",
+      "new_version": "11.3.1.17",
       "changelog": "-fix the News schema.org;-fix markdown(delete emoji)<br/>"
     },
     "demo-games": {
