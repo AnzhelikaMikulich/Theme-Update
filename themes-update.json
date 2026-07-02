@@ -49,7 +49,7 @@
       "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
     },
     "twin-casino-1": {
-      "new_version": "3.9.0.8",
+      "new_version": "3.9.0.10",
       "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "leon-casino-1": {
