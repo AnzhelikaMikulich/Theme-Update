@@ -89,8 +89,8 @@
       "changelog": "- fix mobile menu"
     },
     "mobile-app": {
-      "new_version": "22.0.0.11",
-      "changelog": "-added “blacklisted” functionality to the internal page, restyled sections, and added a field for brand reviews"
+      "new_version": "22.0.0.13",
+      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
     },
     "unibet": {
       "new_version": "23.0.0.1",
