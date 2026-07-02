@@ -41,8 +41,8 @@
       "changelog": "-fix  games inside page and the AMP version<br/>"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.10",
-      "changelog": "-Fix button in AMP version"
+      "new_version": "4.7.0.11",
+   "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.16",
