@@ -69,12 +69,12 @@
       "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
     },
     "leon-landing-1": {
-      "new_version": "8.17.0.10",
-      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "new_version": "8.17.0.11",
+      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
     },
     "leon-landing-2": {
-      "new_version": "9.10.0.10",
-      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "new_version": "9.10.0.11",
+      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
     },
     "leonbet": {
       "new_version": "20.1.1.15",
