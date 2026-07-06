@@ -21,8 +21,8 @@
       "changelog": "- fix button in AMP version"
     },
     "leon-landing-3": {
-      "new_version": "10.1.0.19",
-      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "new_version": "10.1.0.20",
+      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
     },
     "20betwin": {
       "new_version": "14.3.0.23",
@@ -42,7 +42,7 @@
     },
     "twin-casino-2": {
       "new_version": "4.7.0.11",
-   "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
+      "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.16",
