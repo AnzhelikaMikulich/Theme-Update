@@ -69,8 +69,8 @@
       "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
     },
     "leon-landing-2": {
-      "new_version": "9.10.0.11",
-      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
+      "new_version": "9.10.0.12",
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "leon-landing-3": {
       "new_version": "10.1.0.21",
