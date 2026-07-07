@@ -20,10 +20,6 @@
       "new_version": "19.3.0.10",
       "changelog": "- fix button in AMP version"
     },
-    "leon-landing-3": {
-      "new_version": "10.1.0.20",
-      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
-    },
     "20betwin": {
       "new_version": "14.3.0.23",
       "changelog": "-сhanges have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons);-сhanges have been made to the function for replacing the modal window shortcode; the instructions have been updated"
@@ -45,16 +41,16 @@
       "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
     },
     "leon-casino-2": {
-      "new_version": "2.11.0.16",
-      "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
+      "new_version": "2.11.0.17",
+    "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "twin-casino-1": {
       "new_version": "3.9.0.10",
       "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "leon-casino-1": {
-      "new_version": "1.14.0.20",
-      "changelog": "  -Changes have been made to the AMP version (fixed an issue with the Starbox plugin; centered text in buttons) <br/>"
+      "new_version": "1.14.0.21",
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "mercury-ireland": {
       "new_version": "17.12.0.10",
@@ -74,6 +70,10 @@
     },
     "leon-landing-2": {
       "new_version": "9.10.0.11",
+      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
+    },
+    "leon-landing-3": {
+      "new_version": "10.1.0.20",
       "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
     },
     "leonbet": {
