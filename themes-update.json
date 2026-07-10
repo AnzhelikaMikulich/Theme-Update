@@ -81,8 +81,8 @@
       "changelog": "-layout validation check<br/>-fixing amplifier compatibility with StarBox<br/>-implementing scheduled theme updates according to the file"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.19",
-      "changelog": "Fix markdown; Added Schema.org;Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "new_version": "21.2.0.21",
+      "changelog": "- Added macros;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section"
     },
     "real-estate": {
       "new_version": "0.0.12",
