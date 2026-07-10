@@ -89,8 +89,8 @@
       "changelog": "- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "mobile-app": {
-      "new_version": "22.0.0.13",
-      "changelog": "- Added a customizer for news (set button labels)- Added a customizer for AMP (set the label for the AMP button on the banner)- Styles in AMP have been minimized- Added schema.org markup and schema for the FAQ block, the author block, and the news section-added an author block to the markup-added Author Box after h1-added markdown markup to pages-еdited News inside page(add btn name)"
+      "new_version": "22.0.0.14",
+       "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "unibet": {
       "new_version": "23.0.0.1",
