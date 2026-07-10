@@ -85,8 +85,8 @@
       "changelog": "- Added macros;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section"
     },
     "real-estate": {
-      "new_version": "0.0.12",
-      "changelog": "- fix mobile menu"
+      "new_version": "0.0.13",
+      "changelog": "- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "mobile-app": {
       "new_version": "22.0.0.13",
