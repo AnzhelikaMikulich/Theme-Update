@@ -42,7 +42,7 @@
     },
     "leon-casino-2": {
       "new_version": "2.11.0.17",
-    "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "twin-casino-1": {
       "new_version": "3.9.0.10",
@@ -90,10 +90,14 @@
     },
     "mobile-app": {
       "new_version": "22.0.0.14",
-       "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "unibet": {
       "new_version": "23.0.0.1",
+      "changelog": "-theme release"
+    },
+    "my-kindergarten": {
+      "new_version": "0.0.4",
       "changelog": "-theme release"
     }
   }
