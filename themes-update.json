@@ -33,8 +33,8 @@
       "changelog": "-all russian comments and text have been removed from the code;-added option to load simply static parameters from an external JSON file;-add new option for WP-Cli SimplyStatic"
     },
     "rewiew-theme": {
-      "new_version": "6.13.1.9",
-      "changelog": "-fix  games inside page and the AMP version<br/>"
+      "new_version": "6.13.1.11",
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "twin-casino-2": {
       "new_version": "4.7.0.12",
