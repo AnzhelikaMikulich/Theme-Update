@@ -9,8 +9,8 @@
       "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
     },
     "sportwetten-theme": {
-      "new_version": "16.2.1.4",
-      "changelog": "-add amp and style fix"
+      "new_version": "16.2.1.6",
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "gamemania": {
       "new_version": "18.6.0.11",
