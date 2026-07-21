@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.18",
-      "changelog": "-fix the News schema.org;-fix markdown(delete emoji)<br/>"
+      "new_version": "11.3.1.19",
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
     },
     "demo-games": {
       "new_version": "15.2.0.11",
