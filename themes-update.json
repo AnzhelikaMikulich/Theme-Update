@@ -57,8 +57,8 @@
       "changelog": "-renaming theme (the theme is named exactly the same as the archive containing it)"
     },
     "screen-rip": {
-      "new_version": "7.10.0.13",
-      "changelog": "-Renaming theme (the theme is named  the same as the archive containing it);- Added code to prevent the plugin Rank Math SEO from indexing pagination (pages with .../page/...);-Added the ability to select a 404 page template for the page in the admin panel;-Creating a default 404 page template in the admin panel<br/>"
+      "new_version": "7.10.0.14",
+      "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section; <br/>"
     },
     "slot-rip": {
       "new_version": "5.10.0.12",
