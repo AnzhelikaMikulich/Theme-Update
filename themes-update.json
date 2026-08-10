@@ -99,6 +99,10 @@
     "my-kindergarten": {
       "new_version": "0.0.4",
       "changelog": "-theme release"
+    },
+    "leon-landing-4": {
+      "new_version": "24.0.0.1",
+      "changelog": "-theme release"
     }
   }
 }
