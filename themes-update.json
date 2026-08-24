@@ -81,8 +81,8 @@
       "changelog": "-layout validation check<br/>-fixing amplifier compatibility with StarBox<br/>-implementing scheduled theme updates according to the file"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.21",
-      "changelog": "- Added macros;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section"
+      "new_version": "21.2.0.22",
+      "changelog": "-Fix filename in init.php markdown"
     },
     "real-estate": {
       "new_version": "0.0.13",
