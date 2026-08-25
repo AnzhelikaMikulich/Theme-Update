@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.20",
-      "changelog": "- Fix Autor Block from AMP"
+      "new_version": "11.3.1.21",
+      "changelog": "- Fix filename in init.php markdown<br/>- Add 3 level header menu<br/>"
     },
     "demo-games": {
       "new_version": "15.2.0.11",
@@ -81,7 +81,7 @@
       "changelog": "-layout validation check<br/>-fixing amplifier compatibility with StarBox<br/>-implementing scheduled theme updates according to the file"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.22",
+      "new_version": "21.2.0.23",
       "changelog": "-Fix filename in init.php markdown"
     },
     "real-estate": {
