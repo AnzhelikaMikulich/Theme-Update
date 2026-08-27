@@ -101,8 +101,8 @@
       "changelog": "-theme release"
     },
     "leon-landing-4": {
-      "new_version": "24.0.0.1",
-      "changelog": "-theme release"
+      "new_version": "24.0.0.2",
+      "changelog": "-Add updated pagination to the News shortcode and update styles for the News shortcode."
     }
   }
 }
