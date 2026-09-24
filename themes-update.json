@@ -1,8 +1,8 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.26",
-      "changelog": "-Added modular script loading;-Deferred jQuery loading;-Added attributes for deferred image loading"
+      "new_version": "11.3.1.27",
+      "changelog": "-Added fix to News page and Brand page;-Added modular style loading"
     },
     "demo-games": {
       "new_version": "15.2.0.11",
