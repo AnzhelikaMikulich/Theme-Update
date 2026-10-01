@@ -37,8 +37,8 @@
       "changelog": "--Added fix to News page and News Shortcode;-Added modular style loading;-Added modular script loading;-Deferred jQuery loading"
     },
     "twin-casino-2": {
-      "new_version": "4.7.0.15",
-      "changelog": "-Fixed color at Customizer; -Added fix to News page and Brand page;-Added fix to News Short (add items_id filter);-Added modular style loading;-Added modular script loading;-Deferred jQuery loading"
+      "new_version": "4.7.0.16",
+      "changelog": "-Fix modular style loading;-Fix AMP Grid-Fixed color at Customizer; -Added fix to News page and Brand page;-Added fix to News Short (add items_id filter);-Added modular style loading;-Added modular script loading;-Deferred jQuery loading"
     },
     "leon-casino-2": {
       "new_version": "2.11.0.17",
