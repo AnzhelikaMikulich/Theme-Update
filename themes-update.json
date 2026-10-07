@@ -1,7 +1,7 @@
 {
   "themes": {
     "gamblers-theme": {
-      "new_version": "11.3.1.27",
+      "new_version": "11.3.1.28",
       "changelog": "-Added fix to News page and Brand page;-Added modular style loading"
     },
     "demo-games": {
@@ -101,8 +101,8 @@
       "changelog": "-theme release"
     },
     "leon-landing-4": {
-      "new_version": "24.0.0.3",
-      "changelog": "Add fix from content-manager"
+      "new_version": "24.0.0.6",
+      "changelog": "-Added fix to News page and Brand page;-Added modular style loading;-Added modular script loading<br/>"
     }
   }
 }
