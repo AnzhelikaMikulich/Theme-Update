@@ -61,8 +61,8 @@
       "changelog": "- Added macro processing;- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section; <br/>"
     },
     "slot-rip": {
-      "new_version": "5.10.0.12",
-      "changelog": "Added AMP version updates from the file;-Added a block to the customizer for configuring buttons in the news section;-Added an organizational diagram for the news section;-Minified AMP styles<br/>"
+      "new_version": "5.10.0.13",
+      "changelog": "-Added fix to News page and Brand page;-Added modular style loading"
     },
     "leon-landing-1": {
       "new_version": "8.17.0.13",
