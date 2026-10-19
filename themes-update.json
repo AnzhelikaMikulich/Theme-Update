@@ -85,8 +85,8 @@
       "changelog": "-Fix filename in init.php markdown"
     },
     "real-estate": {
-      "new_version": "0.0.13",
-      "changelog": "- Updated and optimized the rendering of the dropdown menu;- Fixed the rendering of the content block;- Removed duplicate tags from the head section;-The news shortcode has been fixed (the ternary operator was removed from the code and replaced with an if/else statement)<br/>"
+      "new_version": "0.0.15",
+      "changelog": "-Added modular style loading;-Added modular script loading"
     },
     "mobile-app": {
       "new_version": "22.0.0.17",
