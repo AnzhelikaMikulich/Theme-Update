@@ -53,8 +53,8 @@
       "changelog": "-Added a block multiplier of 4 to the AMP version.;-Added a flex container for news content (shuffle works only with flex).<br/>"
     },
     "mercury-ireland": {
-      "new_version": "17.12.0.10",
-      "changelog": "-renaming theme (the theme is named exactly the same as the archive containing it)"
+      "new_version": "17.12.0.12",
+      "changelog": "-General revisions to the theme, updates"
     },
     "screen-rip": {
       "new_version": "7.10.0.14",
