@@ -81,8 +81,8 @@
       "changelog": "-Added modular script loading;-Deferred jQuery loading;-Added attributes for deferred image loading"
     },
     "myccc-theme": {
-      "new_version": "21.2.0.23",
-      "changelog": "-Fix filename in init.php markdown"
+      "new_version": "21.2.0.24",
+      "changelog": "-Added fix to News page and Brand page;-Added modular style loading;-Added modular script loading<br/>"
     },
     "real-estate": {
       "new_version": "0.0.15",
